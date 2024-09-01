@@ -1,3 +1,9 @@
+
+# Archived 
+
+This older repo is no longer maintained.  I've started using [copier](https://copier.readthedocs.io/en/stable/)
+and I have a new updated starter template here https://github.com/frankwiles/typer-cli-template
+
 # Cookiecutter to make a Python Package
 
 A simple Python 3.7+ starter template using [cookiecutter](https://github.com/audreyr/cookiecutter).
