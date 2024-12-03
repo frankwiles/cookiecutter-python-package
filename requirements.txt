@@ -1,2 +1,2 @@
 bumpversion==0.5.3
-cookiecutter==1.6.0
+cookiecutter==2.1.1
